@@ -32,6 +32,6 @@ body{
 	  animation: type .5s alternate infinite;
 }
 @keyframes type{
-	  from{box-shadow: inset -3px 0px 0px #888;}
+	  from{box-shadow: inset -3px 0px 0px #393939;}
 	  to{box-shadow: inset -3px 0px 0px transparent;}
 }
